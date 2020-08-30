@@ -1,0 +1,12 @@
+{
+  "name": "consulting-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch yuruslugi2/src/sass/style.scss yuruslugi2/src/sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <inessa65@yandex.by>",
+  "license": "ISC"
+}
